@@ -1,0 +1,13 @@
+READ ME!
+
+HELLO! This is my first ever project and I had a lot of fun making it.
+
+Before entering let me explain the interface.
+
+GET = Calling up all of the available records
+POST = Creating a new record through inputing new information
+PUT = Editing information in a record through selection via ID number
+The second GET = Calling up a specific record via ID number
+DELETE = Disposing of a record through use of ID number
+
+Thank you for your time!
